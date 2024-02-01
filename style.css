@@ -1,0 +1,46 @@
+body{
+    background-image:url("images/Casino.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-size: cover;
+    font-weight: bold;
+    color: goldenrod;
+    text-align: center;
+    padding-top: 70px;
+   }
+
+img{
+width: 200px
+}
+p{
+    color:black;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-right: 250px;
+ }
+#msg-el{
+    
+        color:goldenrod;
+        font-size: xx-large;
+        font-weight: bolder;
+        margin-left: 170px;
+     
+}
+#player-el{
+    color:goldenrod;
+    font-size: xx-large;
+    font-weight: bolder;
+    margin-left: 170px;  
+}
+button{
+    color: #016f32;
+    width: 170px;
+    background: goldenrod;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: x-large;
+    border: 2px;
+    border-radius: 10px;
+
+}
+
